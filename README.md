@@ -1,3 +1,3 @@
 # web_Assignment
-## With Dark and light mode, responsivness, Grid Box and many other things
+## With Dark and Light mode, Responsivness, Grid Box and Many other things.
 This is my portofoli website (samuel tale => 1402284)
